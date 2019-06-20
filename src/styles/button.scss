@@ -1,0 +1,12 @@
+.btn {
+  padding: 15px 30px;
+  border-radius: 50px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 0.1rem;
+  display: inline;
+  &--primary {
+    color: var(--white);
+    background-color: var(--primary);
+  }
+}
