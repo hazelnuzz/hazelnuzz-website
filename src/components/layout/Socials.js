@@ -1,26 +1,32 @@
 import React from 'react'
 
+import facebook from '../../assets/socials/facebook.svg'; 
+import instagram from '../../assets/socials/instagram.svg'; 
+import soundcloud from '../../assets/socials/soundcloud.svg'; 
+import youtube from '../../assets/socials/youtube.svg'; 
+import beatstars from '../../assets/socials/beatstars.svg'; 
+
 const Socials = ({position}) => {
   const data = [
     {
       "url": "https://www.facebook.com/hazelnuzz.de",
-      "icon": "/socials/facebook.svg"
+      "icon": facebook
     },
     {
       "url": "https://www.instagram.com/hazelnuzz_/",
-      "icon": "/socials/instagram.svg"
+      "icon": instagram
     },
     {
       "url": "https://soundcloud.com/hazelnuzz-official",
-      "icon": "/socials/soundcloud.svg"
+      "icon": soundcloud
     },
     {
       "url": "https://www.youtube.com/channel/UC_dmK20XGPHYqMdlMm8zqXw?view_as=subscriber",
-      "icon": "/socials/youtube.svg"
+      "icon": youtube
     },
     {
       "url": "https://www.beatstars.com/hazelnuzz/feed",
-      "icon": "/socials/beatstars.svg"
+      "icon": beatstars
     }
     
   ]
