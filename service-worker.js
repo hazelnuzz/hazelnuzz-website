@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hazelnuzz-website/precache-manifest.101f0acad072d9bc4a8f2c74ab752166.js"
+  "/hazelnuzz-website/precache-manifest.3a525564d5c6f06290fdd90b0743f640.js"
 );
 
 self.addEventListener('message', (event) => {

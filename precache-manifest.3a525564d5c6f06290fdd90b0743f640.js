@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a287e50af1c1272596bf882241b7058",
+    "revision": "7432e777d55f265c1545f5550f43b8f4",
     "url": "/hazelnuzz-website/index.html"
   },
   {
-    "revision": "4025fffb668e155cb353",
-    "url": "/hazelnuzz-website/static/css/main.75b71858.chunk.css"
+    "revision": "2c2aedeede072e782871",
+    "url": "/hazelnuzz-website/static/css/main.b49f4672.chunk.css"
   },
   {
     "revision": "175539a2431327152ce4",
     "url": "/hazelnuzz-website/static/js/2.f037f94e.chunk.js"
   },
   {
-    "revision": "4025fffb668e155cb353",
-    "url": "/hazelnuzz-website/static/js/main.f32cc34f.chunk.js"
+    "revision": "2c2aedeede072e782871",
+    "url": "/hazelnuzz-website/static/js/main.5a1aaa02.chunk.js"
   },
   {
     "revision": "2ef44129e8fdeae8b4bf",
