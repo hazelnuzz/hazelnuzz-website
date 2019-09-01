@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/hazelnuzz-website/static/css/main.103f857c.chunk.css",
-    "main.js": "/hazelnuzz-website/static/js/main.b42e1516.chunk.js",
-    "main.js.map": "/hazelnuzz-website/static/js/main.b42e1516.chunk.js.map",
+    "main.css": "/hazelnuzz-website/static/css/main.75b71858.chunk.css",
+    "main.js": "/hazelnuzz-website/static/js/main.f32cc34f.chunk.js",
+    "main.js.map": "/hazelnuzz-website/static/js/main.f32cc34f.chunk.js.map",
     "runtime~main.js": "/hazelnuzz-website/static/js/runtime~main.f57c2e4a.js",
     "runtime~main.js.map": "/hazelnuzz-website/static/js/runtime~main.f57c2e4a.js.map",
-    "static/js/2.93bfb7ad.chunk.js": "/hazelnuzz-website/static/js/2.93bfb7ad.chunk.js",
-    "static/js/2.93bfb7ad.chunk.js.map": "/hazelnuzz-website/static/js/2.93bfb7ad.chunk.js.map",
+    "static/js/2.f037f94e.chunk.js": "/hazelnuzz-website/static/js/2.f037f94e.chunk.js",
+    "static/js/2.f037f94e.chunk.js.map": "/hazelnuzz-website/static/js/2.f037f94e.chunk.js.map",
     "index.html": "/hazelnuzz-website/index.html",
-    "precache-manifest.1bbd9f9aa1b7b600e60bdd0e83298dd4.js": "/hazelnuzz-website/precache-manifest.1bbd9f9aa1b7b600e60bdd0e83298dd4.js",
+    "precache-manifest.101f0acad072d9bc4a8f2c74ab752166.js": "/hazelnuzz-website/precache-manifest.101f0acad072d9bc4a8f2c74ab752166.js",
     "service-worker.js": "/hazelnuzz-website/service-worker.js",
-    "static/css/main.103f857c.chunk.css.map": "/hazelnuzz-website/static/css/main.103f857c.chunk.css.map",
-    "static/media/profil.png": "/hazelnuzz-website/static/media/profil.2fc6b27a.png"
+    "static/css/main.75b71858.chunk.css.map": "/hazelnuzz-website/static/css/main.75b71858.chunk.css.map",
+    "static/media/beatstars.svg": "/hazelnuzz-website/static/media/beatstars.e827b5f8.svg",
+    "static/media/desktop.svg": "/hazelnuzz-website/static/media/desktop.41e2771b.svg",
+    "static/media/facebook.svg": "/hazelnuzz-website/static/media/facebook.c73b4f88.svg",
+    "static/media/film-strip.svg": "/hazelnuzz-website/static/media/film-strip.5b6d5fee.svg",
+    "static/media/headphones.svg": "/hazelnuzz-website/static/media/headphones.8de126de.svg",
+    "static/media/instagram.svg": "/hazelnuzz-website/static/media/instagram.dfa2197c.svg",
+    "static/media/photo-camera.svg": "/hazelnuzz-website/static/media/photo-camera.c98ec4ac.svg",
+    "static/media/profil.png": "/hazelnuzz-website/static/media/profil.2fc6b27a.png",
+    "static/media/soundcloud.svg": "/hazelnuzz-website/static/media/soundcloud.04cce290.svg",
+    "static/media/youtube.svg": "/hazelnuzz-website/static/media/youtube.163bc57e.svg"
   }
 }
