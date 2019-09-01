@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand:400,700&display=swap');
 
 * {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Varela Round', sans-serif;
   font-weight: normal;
   color: var(--black);
 }
@@ -11,13 +11,19 @@ body {
 
 }
 :root {
-    --primary:#3e97e4;
-    --black:#062035;
-    --dark:#1e3548;
-    --light:#efefef;
+    --primary:#F4F45C;
+    --black:#080522;
+    --dark:#3A2C3E;
+    --light:#EFEFEF;
     --white:#ffffff;
 }
-
+.App {
+  height: 100vh;
+  width: 100%;
+  background-color: var(--black);
+  position: relative;
+  overflow: hidden;
+}
 .section {
   height: 100vh;
   width: 100%;

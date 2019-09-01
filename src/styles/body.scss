@@ -1,0 +1,26 @@
+.body {
+  position: relative;
+  overflow: hidden;
+  height: calc(90vh - 30px);
+  width: 1200px;
+  background-color: var(--white);
+  margin: 0 auto;
+  border-radius: 10px;
+  overflow-y: auto;
+}
+.image {
+height: 300px;
+width: 300px;
+}
+.left {
+float: left;
+width: 50%;
+text-align: center;
+margin: auto 0;
+}
+.right {
+  float: right;
+  width: 50%;
+  text-align: center;
+  margin: auto 0;
+}

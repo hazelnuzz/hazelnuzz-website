@@ -1,15 +1,20 @@
-import React from 'react';
+import React , {useState} from 'react';
 import './styles/app.scss';
 import './styles/typo.scss';
 import './styles/button.scss';
-import Nav from './components/Nav';
-import Hero from './components/Hero';
+import './styles/next-page.scss';
+import Nav from './components/layout/Nav';
+import NextPage from './components/layout/NextPage';
+import Body from './components/layout/Body.js';
 
-function App() {
+const App = () => {  
+  const [open, setOpen] = useState(false)
+  console.log(open);
   return (
     <div className="App">
-      <Nav />
-      <Hero />
+      <Nav open={open} />
+      <Body open={open} />
+      <NextPage open={open} setOpen={setOpen}/>
     </div>
   );
 }
